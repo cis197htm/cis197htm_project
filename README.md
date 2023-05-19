@@ -1,6 +1,6 @@
 # cis197htm_project
 
-Olga Kapora, CIS197HTM, Spring.
+Olga Kapora, CIS197HTM_WebAuthoring_HTML5andCSS3, Spring.
 
 The purpose of this repo is to build a webpage template.
 
