@@ -2,7 +2,7 @@
 header {
     text-align: center;
     font-size: 1.5em;
-    color: #237654;
+    color: #11553B;
     font-family: 'DM Serif Display', serif;
 }
 
@@ -26,12 +26,12 @@ caption {
 }
 
 th, td {
-    border: 1px solid #237654;
+    border: 1px solid #11553B;
     padding: 1%;
 }
 
 th {
-    background-color: #237654;
+    background-color: #11553B;
     color: #fff;
     font-size: 1.15em;
 }
@@ -42,7 +42,7 @@ tr:nth-child(odd) {
 
 /* Style rules for navigation area */
 nav {
-    background-color: #237654;
+    background-color: #11553B;
 }
 
 nav ul {
@@ -115,7 +115,7 @@ form #submit {
     }
 
     nav li a:hover {
-        color: #237654;
+        color: #11553B;
         background-color: #e5e9fc;
     }
 
