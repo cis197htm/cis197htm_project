@@ -89,6 +89,7 @@ fieldset, input, select, textarea {
 fieldset legend {
     font-weight: bold;
     font-size: 1.25em;
+    font-family: 'DM Serif Display', serif;
 }
 
 label {
